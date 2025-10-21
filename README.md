@@ -56,7 +56,3 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 You’re free to share and adapt with credit to the author.
 
 ---
-
-## Star This Repo
-
-If you found this guide helpful, please do consider starring the repo to support future content like this!
