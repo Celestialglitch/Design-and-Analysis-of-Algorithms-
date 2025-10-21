@@ -29,7 +29,10 @@ This guide covers 12 essential algorithms, each broken down into:
 
 ## How to Use
 
-- View the full guide here: [Design and Analysis of Algorithms.pdf](https://github.com/Celestialglitch/Design-and-Analysis-of-Algorithms-/blob/main/Design%20and%20Analysis%20of%20Algorithms.pdf)
+- ## View the Full Guide
+
+You can read the complete PDF here:  
+ [DAA_Ultimate_Guide.pdf](https://github.com/Celestialglitch/Design-and-Analysis-of-Algorithms-/blob/main/DAA_Ultimate_Guide.pdf)
 - Browse individual `.cpp` implementations for each algorithm 
 - Use this as a reference for:
   - Semester exams
